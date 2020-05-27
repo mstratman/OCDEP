@@ -19,7 +19,11 @@ Most notably:
 
 ## Assembly
 
-* Sorry I don't have a detailed assembly guide, and probably won't write one, but email me if you have questions: mark@mas-effects.com
+* Sorry I don't have a detailed assembly guide, and probably won't write one, but email me if you have questions: mark@mas-effects.com.  See the documents in these folders:
+  * [bill-of-materials](bill-of-materials/)
+  * [assembly](assembly/)
+  * [schematic](schematic/)
+  * [pcb](pcb/) *(if you want to fabricate your own)*
 * *Note*: The ["lighthouse" LED](assembly/offboard-wiring-LEDs.png) is totally optional, and you'll probably want to omit it.
 * **FIXES required**: If you fabricate your own PCBs from the gerber files, they should work without modification.  But if you purchased a PCB from me there are 2 important fixes to make:
 
