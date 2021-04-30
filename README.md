@@ -2,7 +2,7 @@
 
 This is an EP Booster and OCD v2 in a single 125 enclosure.
 
-[You can buy a PCB here](https://mas-effects.square.site/product/ocd-ep-booster-board/19?cp=true&sa=true&sbp=false&q=false). Alternatively this repository contains everything you need to build it on your own.
+[You can buy a PCB here](https://shop.mas-effects.com/products/ocd-ep-booster-pcb). Alternatively this repository contains everything you need to build it on your own.
 
 ![picture of the EP+OCD pedal](EP-OCD.jpg)
 
