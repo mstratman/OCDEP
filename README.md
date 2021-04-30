@@ -25,16 +25,16 @@ Most notably:
   * [schematic](schematic/)
   * [pcb](pcb/) *(if you want to fabricate your own)*
 * *Note*: The ["lighthouse" LED](assembly/offboard-wiring-LEDs.png) is totally optional, and you'll probably want to omit it.
-* **FIXES required**: If you fabricate your own PCBs from the gerber files, they should work without modification.  But if you purchased a PCB from me there are 2 important fixes to make:
+* **Black PCB: FIXES required**: If you fabricate your own PCBs from the gerber files or have purchased a blue PCB they will work without modification.  But if you purchased a black PCB from me there are 2 important fixes to make:
 
-### Fix 1: Boost Pot
+### Fix 1: Boost Pot (BLACK PCB only)
 
 1. Cut off leg 2 of the boost pot. i.e. don't connect it to the board.
 2. Solder a jumper from leg 2 to leg 1
 
 ![picture of the boost pot pic](assembly/boost-pot-modification.jpg)
 
-### Fix 2: Missing trace
+### Fix 2: Missing trace (BLACK PCB only)
 
 Solder a jumper wire from the base of Q2 to middle leg of the SW2 (bright switch).
 
